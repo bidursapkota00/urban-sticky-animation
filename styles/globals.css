@@ -30,6 +30,7 @@ a {
 .row1 {
   display: flex;
   height: 250vh;
+  border: 1px solid black;
 }
 .first__time__first {
   position: sticky;
@@ -58,6 +59,7 @@ a {
   position: relative;
   display: flex;
   justify-content: space-between;
+  border: 1px solid red;
   height: 80vh;
 }
 .gas__image,
